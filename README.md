@@ -2,17 +2,20 @@
 {: style="text-align: center;"}
 
 ## Professional Summary
-A brief, punchy overview of who you are and what you do.
+Robotics Engineer focused on developing next-generation buoyancy-driven soft robots.Proven track record of translating complex research into functional prototypes throughrigorous design, construction, and laboratory testing. Passionate about advancing thefrontiers of robotics and looking to contribute technical expertise to a research team.
 
-## Work Experience
-### Software Developer | Tech Corp 
-*January 2024 – Present*
-* Built and maintained responsive frontend web structures.
-* Optimized database queries to speed up data loading by 20%.
+## Education 
+Sep 2021 – Jul. 2026
+PhD, Queen Mary University of London, Mechanical Eng. 
+• Thesis Titled: Buoyancy Actuation Using Incompressible Fluids in Soft Robots for Deep Sea Operations
+• PhD Project: Designed, manufactured and experimentally validated buoyancyactuated soft robot arms for underwater operations.
+• Skills: Public speaking, programming (Python, MATLAB, Arduino), manufacturing soft robots (ultrasonic welding, vacuum impulse welding, 3D printing), designing and executing experimental test plans.
 
-### Junior Developer | StartUp Inc
-*March 2022 – December 2023*
-* Assisted in migrating legacy code to modern React framework structures.
+BEng, Queen Mary University of London, Robotics Eng. 
+Sep. 2018 – Jul. 2021
+• Degree Classification: BEng First Class Honours
+• Final Year Project: Developed an algorithm to navigate a wheeled mobile robotaround a hospital wardroom for autonomous cleaning and disinfection. Algorithm was built in C++ and used ROS for controlling the robot. The algorithm was tested in the Gazebo robot simulator.
+• Skills: Programming (Java, C, MATLAB, 8051 assembly language, ROS), Solidworks,Abaqus, Star CCM+.
 
-## Education
-**BSc Computer Science** — University Name (2020 - 2024)
+## Work History
+
