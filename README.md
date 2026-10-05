@@ -1,14 +1,5 @@
 Danyaal Kaleel
 
----
-layout: page
-title: "My CV"
-permalink: /cv/
----
-
-# John Doe
-Email: john.doe@email.com 
-
 ## Professional Summary
 A brief, punchy overview of who you are and what you do.
 
