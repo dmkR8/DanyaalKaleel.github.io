@@ -1,6 +1,26 @@
 Danyaal Kaleel
 
-<object data="danyaalCV.pdf" type="application/pdf" width="100%" height="800px">
-    <p>Alternative text: Your browser doesn't support embedded PDFs. 
-    <a href="danyaalCV.pdf">Click here to download the PDF instead.</a></p>
-</object>
+---
+layout: page
+title: "My CV"
+permalink: /cv/
+---
+
+# John Doe
+Email: john.doe@email.com 
+
+## Professional Summary
+A brief, punchy overview of who you are and what you do.
+
+## Work Experience
+### Software Developer | Tech Corp 
+*January 2024 – Present*
+* Built and maintained responsive frontend web structures.
+* Optimized database queries to speed up data loading by 20%.
+
+### Junior Developer | StartUp Inc
+*March 2022 – December 2023*
+* Assisted in migrating legacy code to modern React framework structures.
+
+## Education
+**BSc Computer Science** — University Name (2020 - 2024)
