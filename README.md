@@ -1,4 +1,5 @@
-###Danyaal Kaleel
+# Danyaal Kaleel
+{: style="text-align: center;"}
 
 ## Professional Summary
 A brief, punchy overview of who you are and what you do.
