@@ -6,9 +6,11 @@
 
 ## PROFESSIONAL SUMMARY
 {: style="text-align: center;"}
-Robotics Engineer focused on developing next-generation buoyancy-driven soft robots. Proven track record of translating complex research into functional prototypes through rigorous design, construction, and laboratory testing. Passionate about advancing the frontiers of robotics and looking to contribute technical expertise to a research team. 
 
 <img src="./danyaal.jpg" alt="Description" style="float: right; margin-left: 20px; margin-bottom: 10px; width: 200px; height: auto;">
+Robotics Engineer focused on developing next-generation buoyancy-driven soft robots. Proven track record of translating complex research into functional prototypes through rigorous design, construction, and laboratory testing. Passionate about advancing the frontiers of robotics and looking to contribute technical expertise to a research team. 
+
+
 
 ## EDUCATION 
 {: style="text-align: center;"}
