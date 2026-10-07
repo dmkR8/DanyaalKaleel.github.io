@@ -44,7 +44,7 @@ Robotics Engineer focused on developing next-generation buoyancy-driven soft rob
 
 - Ensured safety whilst conducting demonstrations with adherence to strict safety protocols. 
 
-### Engineering Ambassador - Proud to be an Engineer (Royal Academy of Engineering) Nov. 2023 – Jul. 2024 **
+### Engineering Ambassador - Proud to be an Engineer (Royal Academy of Engineering) Nov. 2023 – Jul. 2024 
 
 - Designed and delivered public engagement events to raise awareness of engineers from non-traditional backgrounds. 
 
@@ -78,6 +78,9 @@ Robotics Engineer focused on developing next-generation buoyancy-driven soft rob
 
 ## SKILLS AND INTERESTS 
 {: style="text-align: center;"}
-IT: Proficient in using Office365 suite, Python, C, MATLAB, Arduino. Music: Achieved Grade 8 Distinction in Classical guitar. Sport: Regular training at gym, five times a week. Travel: Extensively travelled around Europe, Asia, Australia and America. 
+- IT: Proficient in using Office365 suite, Python, C, MATLAB, Arduino. 
+- Music: Achieved Grade 8 Distinction in Classical guitar. 
+- Sport: Regular training at gym, five times a week. 
+- Travel: Extensively travelled around Europe, Asia, Australia and America. 
 
 
