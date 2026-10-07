@@ -50,7 +50,7 @@ Robotics Engineer focused on developing next-generation buoyancy-driven soft rob
 
 - Secured generous funding from Royal Academy of Engineering for the initiative. 
 
-**Research Assistant** Jan. 2022 – Mar. 2022 **Queen Mary University of London** 
+### Research Assistant - Queen Mary University of London Jan. 2022 – Mar. 2022  
 
 - Collaborated with a team of engineers to design and build an eversion robot system capable of surveying the internal structure of buildings and applying insulating     material. 
 
@@ -60,9 +60,9 @@ Robotics Engineer focused on developing next-generation buoyancy-driven soft rob
 
 **Scholarship: PhD Studentship** Sep. 2021 Issued by: Queen Mary University of London 
 
-**Award: School of Engineering and Materials Science School Prize for** Jul. 2021 **Robotics for the Best Robotics Engineering Graduate** Issued by: Queen Mary University of London 
+**Award: School of Engineering and Materials Science School Prize for Robotics for the Best Robotics Engineering Graduate** Jul. 2021  Issued by: Queen Mary University of London 
 
-**Award: Fred and Rose Zappert Prize for Outstanding Academic** Jul. 2021 **Achievement in the 2020/21 Academic Year** Issued by: Queen Mary University of London 
+**Award: Fred and Rose Zappert Prize for Outstanding Academic Achievement in the 2020/21 Academic Year** Jul. 2021 Issued by: Queen Mary University of London 
 
 ## PUBLICATIONS 
 {: style="text-align: center;"}
