@@ -4,7 +4,7 @@
 #### Email: danyaal.kaleel@outlook.com 
 {: style="text-align: center;"}
 
-## Professional Summary
+## PROFESSIONAL SUMMARY
 {: style="text-align: center;"}
 Robotics Engineer focused on developing next-generation buoyancy-driven soft robots. Proven track record of translating complex research into functional prototypes through rigorous design, construction, and laboratory testing. Passionate about advancing the frontiers of robotics and looking to contribute technical expertise to a research team. 
 
