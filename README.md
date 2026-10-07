@@ -10,7 +10,7 @@ Robotics Engineer focused on developing next-generation buoyancy-driven soft rob
 
 ## EDUCATION 
 {: style="text-align: center;"}
-## PhD, Queen Mary University of London, Mechanical Eng. Sep 2021 – Jul. 2026 
+### PhD, Queen Mary University of London, Mechanical Eng. Sep 2021 – Jul. 2026 
 
 - Thesis Titled: Buoyancy Actuation Using Incompressible Fluids in Soft Robots for Deep Sea Operations 
 
@@ -18,7 +18,7 @@ Robotics Engineer focused on developing next-generation buoyancy-driven soft rob
 
 - Skills: Public speaking, programming (Python, MATLAB, Arduino), manufacturing soft robots (ultrasonic welding, vacuum impulse welding, 3D printing), designing and executing experimental test plans. 
 
-## BEng, Queen Mary University of London, Robotics Eng. Sep. 2018 – Jul. 2021 
+### BEng, Queen Mary University of London, Robotics Eng. Sep. 2018 – Jul. 2021 
 
 - Degree Classification: BEng First Class Honours 
 
@@ -28,7 +28,7 @@ Robotics Engineer focused on developing next-generation buoyancy-driven soft rob
 
 ## WORK HISTORY 
 {: style="text-align: center;"}
-**Module Demonstrator** Sep. 2022 – Dec. 2024 **School of Engineering and Materials Science and School of Electronic Engineering and Computer Science** 
+### Module Demonstrator - School of Engineering and Materials Science and School of Electronic Engineering and Computer Science Sep. 2022 – Dec. 2024 
 
 - Organised workshops to enhance student’s practical skills and understanding. 
 
@@ -44,12 +44,10 @@ Robotics Engineer focused on developing next-generation buoyancy-driven soft rob
 
 - Ensured safety whilst conducting demonstrations with adherence to strict safety protocols. 
 
-**Engineering Ambassador** Nov. 2023 – Jul. 2024 **Proud to be an Engineer (Royal Academy of Engineering)** 
+### Engineering Ambassador - Proud to be an Engineer (Royal Academy of Engineering) Nov. 2023 – Jul. 2024 **
 
 - Designed and delivered public engagement events to raise awareness of engineers from non-traditional backgrounds. 
 
-
-<!-- PAGE_BREAK -->
 - Secured generous funding from Royal Academy of Engineering for the initiative. 
 
 **Research Assistant** Jan. 2022 – Mar. 2022 **Queen Mary University of London** 
