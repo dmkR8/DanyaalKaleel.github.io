@@ -8,7 +8,9 @@
 {: style="text-align: center;"}
 
 <img src="./danyaal.jpg" alt="Description" style="float: right; margin-left: 20px; margin-bottom: 10px; width: 200px; height: auto;">
-Robotics Engineer focused on developing next-generation buoyancy-driven soft robots. Proven track record of translating complex research into functional prototypes through rigorous design, construction, and laboratory testing. Passionate about advancing the frontiers of robotics and looking to contribute technical expertise to a research team. 
+Danyaal Kaleel is a post doctoral researcher at Ensta Brest. His current research looks into developing a state of the art simulation tool for collision avoidance at sea. 
+
+He obtained his PhD from the Centre for Advanced Robotics at Queen Mary University of London. His PhD research involved developing buoyancy actuation for soft robots using incompressible fluids. This involved designing and building functional prototypes of buoyancy actuated soft robot arms and performing laboratory  based testing of these prototypes in underwater tanks. This also involved mathematically demonstrating the incompressibility of the fluids being examined and performing experiments to characterise the forces produced by these fluids. 
 
 
 
