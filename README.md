@@ -35,6 +35,10 @@ He obtained his PhD from the Centre for Advanced Robotics at Queen Mary Universi
 
 ## WORK HISTORY 
 {: style="text-align: center;"}
+
+### Postdoctoral Researcher - ENSTA Brest Nov. 2026 - present
+
+
 ### Module Demonstrator - School of Engineering and Materials Science and School of Electronic Engineering and Computer Science Sep. 2022 – Dec. 2024 
 
 - Organised workshops to enhance student’s practical skills and understanding. 
