@@ -2,7 +2,7 @@
 {: style="text-align: center;"}
 
 #### Email: danyaal.kaleel@outlook.com 
-{: style="text-align: center;"}
+{: style="text-align: center;"} 
 
 ## PROFESSIONAL SUMMARY
 {: style="text-align: center;"}
