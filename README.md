@@ -15,7 +15,7 @@ He obtained his PhD from the Centre for Advanced Robotics at Queen Mary Universi
 Google Scholar: <a href="https://scholar.google.co.uk/citations?user=dkbcR5sAAAAJ&hl=en"> Danyaal Kaleel </a>
 
 
-[<img src="./danyaal.jpg" alt="Google Scholar" width="50">](https://scholar.google.co.uk/citations?user=dkbcR5sAAAAJ&hl=en)
+[<img src="./Google_Scholar_logo.png" alt="Google Scholar" width="50">](https://scholar.google.co.uk/citations?user=dkbcR5sAAAAJ&hl=en)
 
 ## EDUCATION 
 {: style="text-align: center;"}
