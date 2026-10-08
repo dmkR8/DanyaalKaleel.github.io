@@ -1,4 +1,4 @@
-[Projects](/Projects/)
+[comment]: <> [Projects](/Projects/)
 # Danyaal Kaleel
 {: style="text-align: center;"}
 
