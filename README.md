@@ -14,7 +14,7 @@ He obtained his PhD from the Centre for Advanced Robotics at Queen Mary Universi
 
 [<img src="./Google_Scholar_logo.png" alt="Google Scholar" width="50">](https://scholar.google.co.uk/citations?user=dkbcR5sAAAAJ&hl=en)
 [<img src="./LinkedIn_logo.png" alt="LinkedIn" width="50">](https://www.linkedin.com/in/danyaalkaleel/)
-[<img src="./OrcidID_logo.png" alt="OrchidID" width="50">](https://orcid.org/0000-0003-2481-8475)
+[<img src="./OrcidID_logo.png" alt="OrchidID" width="65">](https://orcid.org/0000-0003-2481-8475)
 ## EDUCATION 
 {: style="text-align: center;"}
 ### PhD, Queen Mary University of London, Mechanical Eng. Sep 2021 – Jul. 2026 
