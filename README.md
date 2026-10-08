@@ -18,7 +18,7 @@ He obtained his PhD from the Centre for Advanced Robotics at Queen Mary Universi
 ## EDUCATION 
 {: style="text-align: center;"}
 ### PhD, Queen Mary University of London, Mechanical Eng. Sep 2021 – Jul. 2026 
-
+ 
 - Thesis Titled: Buoyancy Actuation Using Incompressible Fluids in Soft Robots for Deep Sea Operations 
 
 - PhD Project: Designed, manufactured and experimentally validated buoyancy actuated soft robot arms for underwater operations. 
