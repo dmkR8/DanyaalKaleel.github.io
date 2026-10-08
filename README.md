@@ -13,8 +13,8 @@ Danyaal Kaleel is a post doctoral researcher at Ensta Brest. His current researc
 He obtained his PhD from the Centre for Advanced Robotics at Queen Mary University of London. His PhD research involved developing buoyancy actuation for soft robots using incompressible fluids. This involved designing and building functional prototypes of buoyancy actuated soft robot arms and performing laboratory  based testing of these prototypes in underwater tanks. This also involved mathematically demonstrating the incompressibility of the fluids being examined and performing experiments to characterise the forces produced by these fluids. 
 
 [<img src="./Google_Scholar_logo.png" alt="Google Scholar" width="50">](https://scholar.google.co.uk/citations?user=dkbcR5sAAAAJ&hl=en)
-[<img src="./LinkedIn_logo.png" alt="LinkedIn" width="50">](www.linkedin.com/in/danyaalkaleel)
-
+[<img src="./LinkedIn_logo.png" alt="LinkedIn" width="50">](https://www.linkedin.com/in/danyaalkaleel/)
+[<img src="./OrchidID_logo.png" alt="OrchidID" width="50">](https://orcid.org/0000-0003-2481-8475)
 ## EDUCATION 
 {: style="text-align: center;"}
 ### PhD, Queen Mary University of London, Mechanical Eng. Sep 2021 – Jul. 2026 
